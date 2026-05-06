@@ -1,0 +1,7 @@
+PyQt6
+pymupdf
+pytesseract
+pillow
+pdf2docx
+docx2pdf
+pyinstaller
